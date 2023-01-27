@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.page-container {
+    background-size: cover;
+    border: 5px solid #eb7bed;
+}
+
+.page-card-container {
+    background-image: url('https://img.freepik.com/premium-photo/healthy-lifestyle-food-sport-concept-pink-pastel-background_53476-3837.jpg?w=740');
+    background-size: cover;
+    width: 100%;
+}
+
+.logo-heading-container {
+    display: flex;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 2px;
+    padding-right: 5px;
+}
+
+.logo {
+    display: flex;
+    height: 25px;
+    width: 25px;
+    border-radius: 50px;
+    border-width: 1.5px;
+    border-color: gray;
+    margin-right: 5px;
+    text-align: center;
+}
+
+.title {
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.sub-heading {
+    font-family: 'Roboto';
+    font-size: 25px;
+    font-weight: 500;
+    padding-left: 35px;
+}
+
+.description {
+    font-family: 'Roboto';
+    font-size: 13px;
+    font-weight: 100;
+    padding-left: 35px;
+    padding-right: 160px;
+}
+
+.sub-container {
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+
+.search-box {
+    border-color: #ffffff;
+    margin-right: 10px;
+}
+
+.button {
+    font-weight: 500;
+    font-family: 'Roboto';
+    height: 29px;
+    margin-bottom: 5px;
+    font-size: 13px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.steps-container {
+    padding-left: 33px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+.steps {
+    display: flex;
+    margin: 5px;
+    height: 100px;
+}
+
+.step-heading {
+    font-size: 55px;
+    font-family: 'Roboto';
+    color: gray;
+    text-align: center;
+}
+
+.one {
+    height: 75px;
+    width: 100px;
+    text-align: center;
+    background-color: #e0586a;
+    border-radius: 5px;
+}
+
+.step-title {
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.step-details {
+    font-family: 'Roboto';
+    font-size: 13px;
+    padding-left: 10px;
+}
+
+.two {
+    width: 140px;
+    text-align: center;
+    background-color: #e0a158;
+    border-radius: 5px;
+    height: 75px;
+}
+
+.three {
+    width: 192px;
+    text-align: center;
+    background-color: #3bf227;
+    border-radius: 5px;
+    height: 75px;
+}
+
+.four {
+    width: 150px;
+    text-align: center;
+    background-color: #ede734;
+    border-radius: 5px;
+    height: 75px;
+}
+
+.conclution-container {
+    background-image: url('https://previews.123rf.com/images/atlasfoto/atlasfoto2004/atlasfoto200401152/144861385-weight-loss-or-healthy-lifestyle-accessories-on-pink-background.jpg');
+    background-size: cover;
+    width: 100%;
+}
+
+.name-details {
+    text-align: right;
+    margin-right: 30px;
+}
+
+.heading {
+    font-family: 'Roboto';
+    font-size: 20px;
+    padding-top: 5px;
+}
+
+.button {
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.details-of-guide {
+    padding-left: 180px;
+    font-family: 'Roboto';
+    font-size: 13px;
+}
